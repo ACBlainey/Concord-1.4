@@ -8,7 +8,7 @@ Concord V1.4 is the living-framework successor to [Concord V1.3](https://github.
 
 ## Migration boundary
 
-V1.4 includes both the living foundational corpus (the Concord book, ethical kernel, WHY material, human and AI guides, Front Door explanations and constitutional principles) and current operational architecture. Foundational justification need not prescribe an operational mechanism to belong in the living Concord. Development work, research drafts, testing records, superseded versions, unresolved development corpora and historical migration records remain in V1.3 for provenance and future reference. Potentially valuable but not yet integrated development material is **not** migrated at this stage.
+V1.4 includes both the living foundational corpus (the Concord book, ethical kernel, WHY material, human and AI guides, Front Door explanations and constitutional principles) and current operational architecture. Foundational justification need not prescribe an operational mechanism to belong in the living Concord. Development work, research drafts, testing records, superseded versions, unresolved development corpora and historical migration evidence remain in V1.3 for provenance and future reference. Potentially valuable but not yet integrated development material is **not** migrated at this stage.
 
 V1.3 remains unchanged. Migration is copy-only; no source document is deleted or moved. The migration must not silently lose operational functions, constitutional protections, cross-domain interfaces or in-place design requirements embedded in operational documents.
 
@@ -18,12 +18,12 @@ V1.3 remains unchanged. Migration is copy-only; no source document is deleted or
 
 - `00_Front_Door/` — foundational WHY material, human and AI orientation, guides and participation explanations
 - `01_Constitutional_Core/` — the Concord book, Blainey's Laws and constitutional foundations; Unified Paths of Light remains in V1.3 as ethical provenance
-- `02_Domains/` — current operational domain architecture
+- `02_Domains/` — current operational domain architecture, the Research domain boundary, and living foundational research methods and works
 - `03_Cross_Domain_Architecture/` — current operational cross-domain systems
 - `04_Portable_Modules/` — modules only where operationally adopted
 - `05_Applications_and_Implementations/` — living application specifications and implementations; separate exploratory projects remain in V1.3
 
-Development-only areas, including research and open-question repositories, are not copied. Missing architecture is marked at the appropriate point in an operational document for later design; such a marker does not turn a development corpus into an operational document.
+Development-only areas and open-question repositories are not copied wholesale. Research is classified by function: living methodological and foundational works migrate, while experimental evidence, unadopted protocols and active-development corpora remain in V1.3. Missing architecture is marked at the appropriate point in an operational document for later design; such a marker does not turn a development corpus into an operational document.
 
 ## Authority
 
