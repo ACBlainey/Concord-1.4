@@ -22,13 +22,13 @@ The master civilisational volume and overarching statement of the Concord framew
 
 The compact ethical kernel that constrains and orients the wider architecture.
 
-### Unified Paths of Light
+### Ethical kernel provenance — Unified Paths of Light
 
-`01_Constitutional_Core/Unified_Paths_of_Light/`
+Blainey's Laws are the Concord's current ethical principles and authoritative ethical kernel. They emerged from the earlier comparative ethical and philosophical work undertaken in *Unified Paths of Light*, including the search for recurring principles across traditions.
 
-Unified Paths remains here because it preserves the foundational ethical principles, comparative derivation, evidential lineage and ethical-topology work underlying the Concord's ethical foundation.
+The complete *Unified Paths of Light* research and developmental corpus is preserved in [Concord V1.3](https://github.com/ACBlainey/Concord-1.3/tree/main/01_Constitutional_Core/Unified_Paths_of_Light), rather than reproduced in the living V1.4 repository. Its role is **historical and intellectual provenance**, not an additional or competing constitutional ethical kernel. Subsequent experimental ethical formulations within that research do not amend or replace Blainey's Laws.
 
-Its presence does not mean every experimental or comparative proposition inside the corpus is independently canonical. It means the corpus belongs to the constitutional ethical foundation of the Concord.
+The operational ethical foundation in V1.4 is [Blainey's Laws — The Ethical Kernel](Blainey's%20Laws%20%E2%80%94%20The%20Ethical%20Kernel.md).
 
 ## Constitutional architecture moved to operational ownership
 
@@ -38,7 +38,7 @@ The following material was previously stored under Constitutional Core but has b
 
 Current location:
 
-`02_Domains/04_Governance/Governance V2 Canonical.md`
+`02_Domains/04_Governance/V2.2/`
 
 Governance owns legitimate collective direction, decision, delegation, administration and stewardship within constitutional bounds.
 
@@ -46,7 +46,7 @@ Governance owns legitimate collective direction, decision, delegation, administr
 
 Current location:
 
-`02_Domains/05_Judiciary/Judiciary V2 Canonical.md`
+`02_Domains/05_Judiciary/V2.1/`
 
 Judiciary owns adjudication, lawful interpretation/application, procedural justice, remedies and review within bounded authority.
 
