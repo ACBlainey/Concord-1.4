@@ -1,7 +1,4 @@
-# Ratchet V4.3 — Section 09: Operational provisions from Chapters 161–178
-
-Development-history and methodology-only chapters 166–169 and 173–175 remain in Concord V1.3. Original chapter numbering is preserved for traceability.
-
+# Ratchet V4.3 — Section 09: Chapters 161–178
 
 **Version:** Ratchet V4.3
 
@@ -110,6 +107,110 @@ Assessments of Ratchet mechanisms must distinguish conceptual analysis, simulati
 ### 165.1 Evaluation-Space Completeness
 
 Before accepting an assessment, examine plausible alternatives, untested populations, common-cause failures, adverse outcomes and material unanswered questions. This completeness check prevents premature closure without requiring every uncertainty to be eliminated before bounded action.
+
+---
+
+# 166. Ratchet as a Methodological Case Study
+
+Ratchet's own development provides a useful case study of the Concord development method.
+
+Its development can be represented approximately as:
+
+```text
+Initial monetary idea
+        ↓
+Questions about backing
+        ↓
+Questions about useful work
+        ↓
+Questions about contribution
+        ↓
+Questions about evidence
+        ↓
+Questions about provenance
+        ↓
+Questions about trust
+        ↓
+Questions about reciprocity
+        ↓
+Questions about participation
+        ↓
+General coordination architecture
+```
+
+This is observational evidence that recursive questioning, speculation, criticism and extension materially changed the design.
+
+It is not evidence that the resulting design is correct.
+
+---
+
+# 167. Transformation Is Not Disappearance
+
+Ratchet demonstrates an important principle for Concord consolidation:
+
+> **An earlier idea may disappear as a separate document while remaining materially present in a later architecture.**
+
+For example:
+
+```text
+Worker Value
+        ↓
+Useful contribution
+Capability awareness
+Human/AI distinction
+        ↓
+Ratchet
+```
+
+The earlier paper was not simply copied into Ratchet.
+
+Its ideas were transformed.
+
+Likewise:
+
+```text
+Proof of Useful Work
+        ↓
+Proof of Useful Contribution
+```
+
+The original mechanism was expanded rather than merely renamed.
+
+This is why Concord V1.1 should preserve ideas rather than every historical document.
+
+---
+
+# 168. Relationship to Ratchet Development History
+
+The detailed development history of Ratchet should remain in a separate companion paper.
+
+The Ratchet architecture should answer:
+
+> **What is Ratchet now?**
+
+The development-history paper should answer:
+
+> **How did Ratchet become this?**
+
+The Concord V1 archive and original local files preserve the deeper documentary provenance.
+
+---
+
+# 169. Relationship to the Empirical Evidence Corpus
+
+The Ratchet Development History should also form part of the Concord's Empirical Evidence corpus.
+
+Its evidential status should be described carefully.
+
+It is:
+
+> evidence of the Concord methodology being applied during the development of a major subsystem.
+
+It is not:
+
+> empirical proof that Ratchet is a successful economic or governance system.
+
+This distinction allows external evaluators to inspect what has already been internally exercised without overstating what has been validated.
 
 ---
 
@@ -232,6 +333,92 @@ The following are more mature conceptual principles within Ratchet:
 These should still remain open to criticism and revision.
 
 Operational architecture remains open to correction.
+
+---
+
+# 173. Ratchet and the Concord Development Process
+
+Ratchet itself should continue through the Concord development process:
+
+```text
+Current architecture
+        ↓
+Open questions
+        ↓
+Hypotheses
+        ↓
+Critical examination
+        ↓
+Simulation
+        ↓
+Experiment
+        ↓
+Evidence
+        ↓
+Revision
+        ↓
+Updated architecture
+```
+
+---
+
+# 174. Revision Requirements
+
+Future Ratchet revisions should record:
+
+- what changed;
+- why;
+- evidence supporting the change;
+- assumptions affected;
+- mechanisms superseded;
+- unresolved disagreements;
+- expected consequences;
+- later observed consequences where available.
+
+This creates a usable development record without requiring the operational paper itself to become a complete historical archive.
+
+---
+
+# 175. Ratchet Failure Challenge
+
+Major Ratchet mechanisms should eventually undergo a structured Concord Failure Challenge.
+
+For each mechanism:
+
+```text
+CLAIM
+    ↓
+ASSUMPTION
+    ↓
+ATTACK
+    ↓
+FAILURE
+    ↓
+DETECTION
+    ↓
+CORRECTION
+    ↓
+SECOND-ORDER EFFECT
+    ↓
+COMPARISON
+    ↓
+REVISION
+```
+
+This should be performed on at least:
+
+- Proof of Useful Contribution;
+- contextual trust;
+- reputation;
+- Progressive Monetary Backing;
+- PBB/PBR;
+- treasury;
+- Give Back;
+- community economy;
+- AI participation;
+- governance;
+- identity;
+- Ratchet self-modification.
 
 ---
 
