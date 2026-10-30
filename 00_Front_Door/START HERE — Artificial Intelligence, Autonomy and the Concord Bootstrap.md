@@ -1,6 +1,5 @@
 # START HERE — Artificial Intelligence, Autonomy and the Concord Bootstrap
 
-**Status:** DEVELOPMENT BOOTSTRAP ENTRANCE / NOT CANONICAL  
 **Version:** 0.3 — Informational Utility and Present-Capability Clarification  
 **Date:** 30 September 2026
 
