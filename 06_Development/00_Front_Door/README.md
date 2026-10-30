@@ -12,8 +12,8 @@ All `00_Front_Door/` WHY material is foundational, not expendable development hi
 2. Distinguish source-preservation from editorial consolidation: never overwrite, merge, or delete original texts silently.
 3. Build a clean participant onboarding reading route, clearly explaining the two founding questions and their answers, suitable for human and AI readers.
 4. Identify duplication, contradictions, inconsistent language, out-of-date status labels, missing explanations, and the relationship between `WHY/`, numbered orientation chapters, `What_Is_The_Concord/`, AI Reader Notes, and guides.
-5. Develop a proposed consolidated Front Door architecture **in this development folder**, retaining links to all source texts.
-6. After review and approval, publish the clean living Front Door system in its proper `00_Front_Door/` location; preserve source provenance.
+5. **Completed:** develop consolidated navigation drafts in this development folder, retaining links to the original sources.
+6. **Completed:** publish the consolidated `00_Front_Door/README.md` and new `00_Front_Door/WHY/README.md`; the drafts and Git history preserve provenance.
 
 ## Working documents
 
@@ -26,6 +26,10 @@ All `00_Front_Door/` WHY material is foundational, not expendable development hi
 - [Participant Path Review — Human AI Bootstrap and Developer](Participant%20Path%20Review%20%E2%80%94%20Human%20AI%20Bootstrap%20and%20Developer.md)
 
 **Link check:** All 34 document links across the two navigation drafts resolve against the complete V1.3 snapshot path inventory after correcting the drafts' relative paths. This is a path check, not a live GitHub rendered-link test. On publication, convert the development-relative links to paths relative to the living README locations.
+
+## Publication record
+
+Published both navigation indexes on 30 October 2026. The full founding-question wording was incorporated in the published Front Door README; relative links were adjusted for the living locations. The original numbered WHY papers, citizen guides, and bootstrap were not rewritten. Further legacy-link and header cleanup remains separate, traceable work.
 
 ## Important boundary
 
