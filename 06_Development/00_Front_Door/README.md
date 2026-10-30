@@ -22,6 +22,8 @@ All `00_Front_Door/` WHY material is foundational, not expendable development hi
 - [Front Door README — V1.4 Consolidated Navigation Draft](Front%20Door%20README%20%E2%80%94%20V1.4%20Consolidated%20Navigation%20Draft.md)
 - [WHY Navigation Index — Consolidation Draft](WHY%20Navigation%20Index%20%E2%80%94%20Consolidation%20Draft.md)
 - [Front Door Consolidation — Issues and Corrections Register](Front%20Door%20Consolidation%20%E2%80%94%20Issues%20and%20Corrections%20Register.md)
+- [Overlap Review — Forking and WHY Preservation](Overlap%20Review%20%E2%80%94%20Forking%20and%20WHY%20Preservation.md)
+- [Participant Path Review — Human AI Bootstrap and Developer](Participant%20Path%20Review%20%E2%80%94%20Human%20AI%20Bootstrap%20and%20Developer.md)
 
 **Link check:** All 34 document links across the two navigation drafts resolve against the complete V1.3 snapshot path inventory after correcting the drafts' relative paths. This is a path check, not a live GitHub rendered-link test. On publication, convert the development-relative links to paths relative to the living README locations.
 
