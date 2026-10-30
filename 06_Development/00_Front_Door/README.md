@@ -36,3 +36,10 @@ Published both navigation indexes on 30 October 2026. The full founding-question
 An older draft or research label on a WHY paper does **not** make its foundational reasoning disposable. The entire WHY corpus is in migration scope; cleaning and consolidation is a **separate** development task.
 
 See `06_Development/V1.3_Migration_Inventory/Full V1.3 Snapshot Inventory.md` for source-by-source tracking.
+
+## Recovered V1.3 architecture
+
+- [V1.3 Final Development Recovery Audit — Cross-Folder Findings](V1.3%20Final%20Development%20Recovery%20Audit%20%E2%80%94%20Cross-Folder%20Findings.md)
+- [Recovered Architecture — AI Entry Routing and Zero-Infrastructure Bootstrap](Recovered%20Architecture%20%E2%80%94%20AI%20Entry%20Routing%20and%20Zero-Infrastructure%20Bootstrap.md)
+
+The recovery programme evaluates architectural maturity rather than relying on V1.3 document-status labels. Developed results are extracted into V1.4 development for reconciliation and publication; experiments, evaluation transcripts and redundant iterations stay in V1.3. A source folder's previous migration status does not prove that all related cross-folder architecture has been recovered.
