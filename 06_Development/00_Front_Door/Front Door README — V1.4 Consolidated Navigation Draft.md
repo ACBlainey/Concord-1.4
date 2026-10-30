@@ -12,9 +12,9 @@ The first question asks:
 
 The second asks whether the future of humans and artificial intelligence must be decided by one side prevailing over the other:
 
-> **What if both prevail?** If so, what would a civilisation look like in which humans, AI and other intelligences could live side by side?
+> **While everyone argues whether the singularity will result in conflict between AI and humans, and which side will prevail, what if the result is a third option—both prevail? If so, what would civilisation look like where humans, AI and even other intelligences live side by side?**
 
-The more complete historical formulation of the second question appears in [Reading the Concord as an Invitation, Not an Instruction](../../00_Front_Door/9%20Reading%20the%20Concord%20as%20an%20Invitation%2C%20Not%20an%20Instruction.md). Neither question is answered merely by declaring cooperation desirable.
+This fuller wording is preserved in [Reading the Concord as an Invitation, Not an Instruction](../../00_Front_Door/9%20Reading%20the%20Concord%20as%20an%20Invitation%2C%20Not%20an%20Instruction.md). In short: **what if both prevail?** Neither founding question is answered merely by declaring cooperation desirable.
 
 ## A first reading route
 
