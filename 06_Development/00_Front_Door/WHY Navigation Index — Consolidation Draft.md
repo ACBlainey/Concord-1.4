@@ -15,7 +15,7 @@ The Concord began by asking whether humans and artificial intelligences must com
 | Theme | Full source paper |
 |---|---|
 | Different failures and mutual recovery | [Failure Diversity and Recovery Value](../../00_Front_Door/WHY/Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another%27s%20Lifeboats.md) |
-| Peaceful divergence | [Forking — The Third Answer Repeated](../../00_Front_Door/WHY/Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) |
+| Peaceful divergence | [Forking — The Third Answer Repeated](../../00_Front_Door/6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — main reader chapter; [WHY adaptation](../../00_Front_Door/WHY/Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) retains V1.2 provenance and the identical substantive text |
 | Capability networks and self-stewardship | [Network Before Replacement](../../00_Front_Door/WHY/Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability%2C%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) |
 | Different ways of perceiving reality | [Perceptual and Interface Limits](../../00_Front_Door/WHY/Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) |
 | Autonomy and expanded possibilities | [Possibility Infrastructure](../../00_Front_Door/WHY/Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) |
