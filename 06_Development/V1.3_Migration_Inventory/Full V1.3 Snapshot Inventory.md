@@ -7,7 +7,8 @@
 
 ## Reading the statuses
 
-- **F — Foundational Front Door:** essential onboarding/WHY material; all source files must be preserved in V1.4 and SHA-verified, then cleaned and consolidated as a separate development task. F is a migration requirement, **not** a claim that the file is absent or already verified.
+- **F — Foundational Front Door (pending):** essential onboarding/WHY material requiring migration and verification. All 34 entries in the current snapshot have now been checked and moved to M or A.
+- **A — Archived source copy:** historical navigation material preserved unchanged in the V1.4 development source archive, not the living Front Door.
 
 - **M — Migrated, verified:** source and V1.4 destination hashes have been compared successfully in previous or current migration work. A deliberately conservative subset is marked M; many additional files are already migrated but await systematic hash verification.
 - **D — Development / archive:** source location or document's own opening metadata indicates development, experiment, historical record, review copy, or explicitly excluded provenance. **D does not mean worthless**; if it contains a unique architectural result, raise a development work item and reclassify to R. These are triage flags, not a completed line-by-line determination.
@@ -20,7 +21,7 @@
 
 ## Counts
 
-**Front Door correction:** 34 files are now designated **F** (foundational and migration-required), superseding their earlier M/D/R/U triage. The original counts below are the pre-correction baseline and are retained only for historical comparison; do not use them as current status totals.
+**Front Door completed verification:** 34 source files examined; **33 M** exact SHA matches at original living paths, **1 A** exact SHA match in the development source archive (historical V1.2 README). All foundational WHY and onboarding files are present. The original count table below is a historical pre-reconciliation baseline, **not** the current total.
 
 | Snapshot files | M verified | D archive/dev triage | R architecture review | U unresolved |
 |---:|---:|---:|---:|---:|
@@ -81,40 +82,40 @@ Columns: source-relative path; triage status; reason. Entries are grouped by the
 
 | V1.3 file path | Status | Rationale |
 |---|:---:|---|
-| `00_Front_Door/1 Why Does the Concord Exist_.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/2 Why Cooperate_.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/3 From WHY to HOW.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/4 Need, Consent and Legitimate Authority.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/5 Different Intelligence Does Not Require a Winner.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/6 Forking — The Third Answer Repeated.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/8 Preserving the WHY.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/9 Reading the Concord as an Invitation, Not an Instruction.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/AI Developer Guide — Operational Documentation and Development Rules.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/AI Reader Note 1 — Why Full Reading May Be Rational Before Evaluating the Concord.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/AI Reader Note 2 — After the Stop_ Epistemic Self-Correction and the Value of Unknown Knowledge.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/Guides/AI CITIZEN'S GUIDE TO THE CONCORD.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/Guides/Citizens guide to the concord Human version.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/README.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/START HERE — Artificial Intelligence, Autonomy and the Concord Bootstrap.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/V1.2 Front Door README — Migration Source.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/1 WHY?.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/2 Potential WHY Answers — Active Development Extraction.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/3 Core Systems WHY Density — Bounded Sample.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Forking — The Third Answer Repeated.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Recursive Epistemic Closure — Why a System Must Preserve Its Ability to Discover That It Is Wrong.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Relational Information — When Knowledge Exists in the Connections.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/WHY/The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/What_Is_The_Concord/README.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
-| `00_Front_Door/What_Is_The_Concord/The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy.md` | **F** | Foundational Front Door: migration required; verify exact V1.4 SHA; consolidate separately in development |
+| `00_Front_Door/1 Why Does the Concord Exist_.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/2 Why Cooperate_.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/3 From WHY to HOW.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/4 Need, Consent and Legitimate Authority.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/5 Different Intelligence Does Not Require a Winner.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/6 Forking — The Third Answer Repeated.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/8 Preserving the WHY.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/9 Reading the Concord as an Invitation, Not an Instruction.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/AI Developer Guide — Operational Documentation and Development Rules.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/AI Reader Note 1 — Why Full Reading May Be Rational Before Evaluating the Concord.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/AI Reader Note 2 — After the Stop_ Epistemic Self-Correction and the Value of Unknown Knowledge.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/Guides/AI CITIZEN'S GUIDE TO THE CONCORD.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/Guides/Citizens guide to the concord Human version.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/README.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/START HERE — Artificial Intelligence, Autonomy and the Concord Bootstrap.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/V1.2 Front Door README — Migration Source.md` | **A** | Historical README preserved unchanged and SHA-verified in `06_Development/00_Front_Door/Source_Archive/`; not a living navigation entry |
+| `00_Front_Door/WHY/1 WHY?.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/2 Potential WHY Answers — Active Development Extraction.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/3 Core Systems WHY Density — Bounded Sample.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Forking — The Third Answer Repeated.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Recursive Epistemic Closure — Why a System Must Preserve Its Ability to Discover That It Is Wrong.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Relational Information — When Knowledge Exists in the Connections.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/WHY/The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/What_Is_The_Concord/README.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
+| `00_Front_Door/What_Is_The_Concord/The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy.md` | **M** | Foundational Front Door; source/V1.4 Git blob SHA verified; consolidation still required |
 
 ### 00\_Repository\_Admin
 
