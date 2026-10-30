@@ -2,6 +2,14 @@
 
 **Status:** Development work only. No living source document changed.
 
+## Publication and cleanup status
+
+- **Published:** living `00_Front_Door/README.md` and `00_Front_Door/WHY/README.md`.
+- **Fixed:** FD-001 (obsolete V1.3 Front Door navigation), FD-006 (broken WHY directory link), FD-007 (full founding-question wording in published README), FD-009 (dedicated WHY index).
+- **Fixed separately:** obsolete document-level bootstrap status label removed without altering bootstrap safeguards.
+- **Preserved intentionally:** historical V1.2 research metadata inside original WHY papers, which should not be silently rewritten.
+- **Checked:** 18 main README links and 17 WHY index links have expected relative target names. Full live GitHub link traversal and wider corpus link audit remain separate checks.
+
 ## Confirmed issues
 
 | ID | Finding | Corrective action |
