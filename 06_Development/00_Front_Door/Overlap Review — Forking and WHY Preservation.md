@@ -9,7 +9,7 @@
 
 The WHY copy explicitly identifies itself as adapted from numbered chapter 6 and adds a V1.2 research header. Their shared opening sections and diagram identifiers establish that these are **closely related versions of the same argument**, not two independently discovered reasons for coexistence.
 
-**Editorial decision proposed:** Make chapter 6 the normal participant reading route; link the WHY variant as the historical research adaptation and preserve its unique material. Do not delete, silently merge or claim byte identity. A paragraph-level difference review is required before any future replacement.
+**Editorial decision proposed:** Make chapter 6 the normal participant reading route; link the WHY variant as the historical research adaptation and preserve its unique material. Do not delete, silently merge or claim byte identity. A full paragraph-level difference review remains appropriate before any replacement. An initial structural comparison confirms **39 identical heading labels in both documents**, with 1,430 lines in the numbered chapter and 1,443 in the WHY adaptation. Their Git blob hashes differ, so they are not byte-identical.
 
 ## WHY versus HOW: distinct purposes
 
@@ -24,7 +24,7 @@ The `WHY/1 WHY?.md` map warns that identified WHY answers are not an exhaustive 
 
 ## Next editorial checks
 
-1. Compare the full two forking versions section-by-section and preserve any unique sections.
+1. Compare the full two forking versions section-by-section below the matching headings and preserve any unique paragraphs; do not mistake matching structure for identical content.
 2. Confirm whether the numbered chapter's current language or the research adaptation is more suitable for public navigation.
 3. Cross-check the WHAT collection against the WHY/HOW distinction so a reader does not mistake civilisational mechanisms for the founding purpose.
 4. Ensure that future publication does not overwrite source history, including chapter 8's account of lost contextual significance.
