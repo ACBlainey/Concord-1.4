@@ -12,9 +12,13 @@
 | FD-004 | `WHY/3 Core Systems WHY Density — Bounded Sample.md` is an exploratory sample and explicitly disclaims completeness. | Preserve it as evidence of incompleteness, not a finished foundational conclusion or a complete catalogue. |
 | FD-005 | `What_Is_The_Concord/README.md` contains a competing emphasis: complete civilisation design versus the founding third possibility. | Retain both functions while explaining that the civilisational design is the response to the founding questions, not the original reason for asking them. |
 | FD-006 | `2 Why Cooperate_.md` links to `WHY%3F/1%20WHY%3F.md`, which does not match the current `WHY/` folder name. | Correct link in an approved source edit or through a stable navigation index; verify other historical `WHY?/` links. |
-| FD-007 | The short formulation of the second founding question in the draft is incomplete compared with `9 Reading the Concord as an Invitation, Not an Instruction.md`. | Preserve the full historical wording in the consolidated entry, alongside a concise summary. |
+| FD-007 | The short formulation of the second founding question in the draft is incomplete compared with `9 Reading the Concord as an Invitation, Not an Instruction.md`. | Preserve the full historical wording in the consolidated entry, alongside a concise summary; current draft points to chapter 9 for the full wording. |
 | FD-008 | AI Developer Guide is in the Front Door and may be mistaken for participant onboarding. | Provide a separate developer path, keeping participant and editing instructions distinct. |
 | FD-009 | The draft README's `[WHY collection](WHY/)` link leads to a folder with no dedicated README in the snapshot. | Create a WHY navigation index in Development, then publish after review. |
+
+## Completed overlap reconciliation
+
+The numbered chapter 6 and the WHY/Forking adaptation have identical substantive body text (1,428 lines). The WHY version adds only V1.2 provenance metadata and an adaptation note. Main reader navigation now points to chapter 6 and also retains a provenance link to the WHY version. No source removal is warranted.
 
 ## Founding questions: authoritative source wording for editorial use
 
