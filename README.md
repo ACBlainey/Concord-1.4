@@ -39,3 +39,7 @@ The root-level authorial authority rule is to be copied from V1.3 without embedd
 The presence of a folder does not imply that the associated system is fully designed or implemented.
 
 **Migration status:** in progress. No declaration of completion is implied by the creation of this README.
+
+## AI development continuity and task handoffs
+
+Before beginning or resuming a substantial development task, AI development instances must read the [persistent task handoff protocol](06_Development/Task_Handoffs/README.md) and the relevant record in [Active task handoffs](06_Development/Task_Handoffs/Active/). Update the handoff with verified progress and the exact next action before stopping; archive completed handoffs under `Completed/` for provenance. These records supplement, and do not supersede, the root AI development instructions or living operational authority.
