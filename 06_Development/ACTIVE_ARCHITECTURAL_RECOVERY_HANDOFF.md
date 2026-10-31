@@ -1,3 +1,9 @@
+# Superseded handoff location — retained for provenance
+
+The current active handoff is [HANDOFF.md](Handoffs/Active/V13_to_V14_Architectural_Recovery/HANDOFF.md), with its [checkpoint journal](Handoffs/Active/V13_to_V14_Architectural_Recovery/PROGRESS.md). This earlier handoff is retained below for provenance; do not update it as a second active state record.
+
+---
+
 # Active Work — Concord V1.3 to V1.4 Architectural Recovery
 
 **Updated:** 2026-10-31  
