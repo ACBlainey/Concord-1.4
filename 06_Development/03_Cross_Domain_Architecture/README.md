@@ -13,3 +13,7 @@ See [Development workspace rules](../README.md).
 ## Recovery batch 05
 
 [Layer Zero, Machine Ethics and Ethical Guardian recovery register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2005.md) records 49 intact, hash-verified source copies, domain interfaces and outstanding recovery items. Prediction/observation remains separate from authority; high-risk research and unvalidated protocols retain their source qualifications.
+
+## Recovery batch 06
+
+[Batch 06 register](https://github.com/ACBlainey/Concord-1.4/blob/main/06_Development/03_Cross_Domain_Architecture/Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2006.md) records 42 intact cross-domain root sources, the complete connector implementation note and six architectural/research sketches. All 49 source copies were hash-verified. Source maturity and authority boundaries remain unchanged; nested cross-domain families and test-embedded amendments remain for review.
