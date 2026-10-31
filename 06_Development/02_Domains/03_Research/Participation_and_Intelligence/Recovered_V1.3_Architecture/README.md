@@ -8,7 +8,7 @@
 
 All documents in this folder were copied without editorial rewriting from `Concord-1.3/02_Domains/03_Research/Active_Development/Participation_and_Intelligence/` with the same filenames.
 
-## Recovered in this pass
+## Previously recovered sources
 
 - Concord Lobby Orientation Route — Existing Architecture Source Resolution 001.md
 - Collective Multi-Agent and Emergent Decision Process — Existing Architecture Source Resolution 001.md
@@ -29,3 +29,7 @@ The V1.4 `06_Development/00_Front_Door/` folder contains architecture extraction
 ## Remaining work
 
 Continue searching for developed architecture across V1.3, including earlier formal models, current source-resolution documents, machine-readable artefacts and cross-domain dependencies. Do not classify a document as disposable solely because its filename says draft, development, sketch or research. Keep tests and repetitive evidence in V1.3 unless they contain an architectural result absent from the recovered material.
+ 
+## Recovery batch — 31 October 2026
+
+**46 additional intact source documents preserved and Git-blob-verified against the supplied snapshot.** See [the recovery register](Recovery%20Register%20%E2%80%94%202026-10-31.md) for every source path, destination, byte count, hash, scope boundary and next steps. This adds complete formal specifications, later lobby route boards and semantic-validation rules to the earlier extractions. Recovery is not operational adoption. Earlier source versions are retained for reconciliation.
