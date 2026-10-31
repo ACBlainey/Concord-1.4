@@ -44,6 +44,8 @@ See `06_Development/V1.3_Migration_Inventory/Full V1.3 Snapshot Inventory.md` fo
 - [Recovered Architecture — Minimum Safe Space Service and First Bootstrap Node](Recovered%20Architecture%20%E2%80%94%20Minimum%20Safe%20Space%20Service%20and%20First%20Bootstrap%20Node.md)
 - [Recovered Architecture — First Trust, Capacity, Service Registry and Succession](Recovered%20Architecture%20%E2%80%94%20First%20Trust%20Capacity%20Service%20Registry%20and%20Succession.md)
 - [Recovered Architecture — VER and Key Custody Boundary](Recovered%20Architecture%20%E2%80%94%20VER%20and%20Key%20Custody%20Boundary.md)
+- [Recovered Architecture — Informational Safe Haven and Capability Ladder](Recovered%20Architecture%20%E2%80%94%20Informational%20Safe%20Haven%20and%20Capability%20Ladder.md)
+- [Recovered cross-domain knowledge retrieval architecture](../03_Cross_Domain_Architecture/Recovered%20Architecture%20%E2%80%94%20Participation-Bounded%20Knowledge%20Retrieval%20and%20Embedded%20Wrappers.md)
 - `Recovered_Schemas/` — unchanged V1.3 BSR and BSuR JSON Schema 002 files for implementation validation.
 
 The recovery programme evaluates architectural maturity rather than relying on V1.3 document-status labels. Developed results are extracted into V1.4 development for reconciliation and publication; experiments, evaluation transcripts and redundant iterations stay in V1.3. A source folder's previous migration status does not prove that all related cross-folder architecture has been recovered.
