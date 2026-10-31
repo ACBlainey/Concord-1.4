@@ -17,3 +17,7 @@ Copy each living foundational or current operational document from Concord V1.3 
 ## Ethical provenance boundary
 
 *Unified Paths of Light* remains in V1.3 as the large developmental and comparative source corpus that informed Blainey's Laws. V1.4 retains Blainey's Laws as the authoritative ethical kernel and provides a concise origin reference in the Constitutional Core README; it does not import the Unified Paths corpus or its research README.
+
+## Persistent task handoff
+
+Before resuming architectural recovery, read [the active recovery handoff](06_Development/ACTIVE_ARCHITECTURAL_RECOVERY_HANDOFF.md), the Development README and the relevant recovery registers. Verify the repository state before proceeding. Update the handoff with the last verified commit, completed source families, outstanding work, and the next exact action at each task boundary. When completed, archive the handoff in Development/Completed while retaining provenance, and update this pointer. Do not treat conversation memory as a substitute for the GitHub handoff.
