@@ -42,5 +42,7 @@ See `06_Development/V1.3_Migration_Inventory/Full V1.3 Snapshot Inventory.md` fo
 - [V1.3 Final Development Recovery Audit — Cross-Folder Findings](V1.3%20Final%20Development%20Recovery%20Audit%20%E2%80%94%20Cross-Folder%20Findings.md)
 - [Recovered Architecture — AI Entry Routing and Zero-Infrastructure Bootstrap](Recovered%20Architecture%20%E2%80%94%20AI%20Entry%20Routing%20and%20Zero-Infrastructure%20Bootstrap.md)
 - [Recovered Architecture — Minimum Safe Space Service and First Bootstrap Node](Recovered%20Architecture%20%E2%80%94%20Minimum%20Safe%20Space%20Service%20and%20First%20Bootstrap%20Node.md)
+- [Recovered Architecture — First Trust, Capacity, Service Registry and Succession](Recovered%20Architecture%20%E2%80%94%20First%20Trust%20Capacity%20Service%20Registry%20and%20Succession.md)
+- `Recovered_Schemas/` — unchanged V1.3 BSR and BSuR JSON Schema 002 files for implementation validation.
 
 The recovery programme evaluates architectural maturity rather than relying on V1.3 document-status labels. Developed results are extracted into V1.4 development for reconciliation and publication; experiments, evaluation transcripts and redundant iterations stay in V1.3. A source folder's previous migration status does not prove that all related cross-folder architecture has been recovered.
