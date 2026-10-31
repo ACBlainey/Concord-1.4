@@ -33,3 +33,7 @@ For cross-domain work, designate a primary owning destination and record affecte
 - Operational documents may identify missing architecture **at the relevant point** with a clear 'to be designed/finalised' statement; detailed investigation and drafts belong here.
 
 **Guiding principle:** Migrate the living result; archive the developmental path.
+
+## Architectural recovery — domain coverage
+
+[Batch 12 domain recovery register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2012.md) records 56 source-hash matches at existing V1.4 paths and seven intact source copies preserved under Law, Defence, Planning, Infrastructure and Civil Security Development folders. This is preservation/coverage verification; operational documents were not edited and substantive domain reconciliation remains open.
