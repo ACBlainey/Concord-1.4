@@ -33,3 +33,7 @@ Continue searching for developed architecture across V1.3, including earlier for
 ## Recovery batch — 31 October 2026
 
 **46 additional intact source documents preserved and Git-blob-verified against the supplied snapshot.** See [the recovery register](Recovery%20Register%20%E2%80%94%202026-10-31.md) for every source path, destination, byte count, hash, scope boundary and next steps. This adds complete formal specifications, later lobby route boards and semantic-validation rules to the earlier extractions. Recovery is not operational adoption. Earlier source versions are retained for reconciliation.
+
+## Recovery batch 02 — 31 October 2026
+
+[Batch 02 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2002.md) records ten more intact, hash-verified design/source-resolution documents; comparison of the earlier lobby boards and signboard against recovered successors; and implementation requirements extracted from CMSS/resource evaluations. This is preservation and coverage work, not operational adoption or a declaration of complete recovery.
