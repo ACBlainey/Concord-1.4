@@ -37,3 +37,7 @@ For cross-domain work, designate a primary owning destination and record affecte
 ## Architectural recovery — domain coverage
 
 [Batch 12 domain recovery register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2012.md) records 56 source-hash matches at existing V1.4 paths and seven intact source copies preserved under Law, Defence, Planning, Infrastructure and Civil Security Development folders. This is preservation/coverage verification; operational documents were not edited and substantive domain reconciliation remains open.
+
+## Architectural recovery — Historical, Continuity, Economy and Civil Attention
+
+[Batch 13 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2013.md) records 57 exact original-path matches, two verified alternate Historical paths and thirty intact Development source copies. Duplicate roots and predecessor sources remain distinct; domain validation/amendment review is still pending.
