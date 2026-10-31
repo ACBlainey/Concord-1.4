@@ -45,3 +45,7 @@ For cross-domain work, designate a primary owning destination and record affecte
 ## Architectural recovery — Health and further civil domains
 
 [Batch 14 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2014.md) records 49 exact original-path matches and nineteen intact Development copies across Intercivilisational Relations, Health, Education, Environment, Social Support and Culture. It preserves information/competence/custody/authority boundaries and keeps domain amendment review open.
+
+## Architectural recovery — Governance, Judiciary and Portable Modules
+
+[Batch 15 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2015.md) records exact source coverage for Governance V2.2's README/22 sections, Judiciary V2.1's 23-file sectional set and 41 portable files, plus two root documents. Twenty original sources are preserved in Development; historical/portable sources do not supersede current domain authority.
