@@ -25,39 +25,26 @@ For a consequential civilisational function (X):
 
 [
 Reality/Need
-
-ightarrow
+ightarrow
 Evidence
-
-ightarrow
+ightarrow
 Legitimate Function
-
-ightarrow
+ightarrow
 Bounded Scope
-
-ightarrow
+ightarrow
 Review
-
-ightarrow
+ightarrow
 Correction
-
-ightarrow
+ightarrow
 Revision
-
-ightarrow
+ightarrow
 Learning.
 ]
 
 Compressed:
 
 [
-oxed{R
-ightarrow F
-ightarrow B
-ightarrow V
-ightarrow C
-ightarrow T
-ightarrow L}
+oxed{Rightarrow Fightarrow Bightarrow Vightarrow Cightarrow Tightarrow L}
 ]
 
 where:
@@ -80,8 +67,7 @@ If a system materially affects a participant:
 
 [
 MaterialConsequence(X,P)
-
-ightarrow
+ightarrow
 Require(Standing/Agency/AccessibleChallenge).
 ]
 
@@ -91,8 +77,7 @@ If a system creates or operates under material asymmetry:
 
 [
 MaterialAsymmetry(X)
-
-ightarrow
+ightarrow
 Require(AntiDomination + StrongerReview).
 ]
 
@@ -102,8 +87,7 @@ If a function is civilisationally necessary across implementation failure:
 
 [
 ContinuityNeed(F)
-
-ightarrow
+ightarrow
 Preserve(Function)
 land
 Allow(Replace(Form)).
@@ -115,16 +99,14 @@ If a system reviews, measures, maps, corrects or governs other systems:
 
 [
 MetaFunction(X)
-
-ightarrow
+ightarrow
 ApplyRelevantGrammar(X,X).
 ]
 
 Compressed:
 
 [
-oxed{MetaAuthority
-ightarrow MetaConstraint}
+oxed{MetaAuthorityightarrow MetaConstraint}
 ]
 
 ## G5 — Scope Expansion Rule
@@ -155,8 +137,7 @@ Capability may justify function-specific responsibility only where independently
 
 [
 LocalInadequacy
-
-ightarrow
+ightarrow
 PossibleEscalation
 ]
 
@@ -255,8 +236,7 @@ For each node (x):
 
 [
 CandidateHole
-
-ightarrow
+ightarrow
 egin{cases}
 RepresentationGap\
 DistributedExistingFunction\
