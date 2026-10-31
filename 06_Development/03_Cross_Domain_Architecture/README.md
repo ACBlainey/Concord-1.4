@@ -17,3 +17,7 @@ See [Development workspace rules](../README.md).
 ## Recovery batch 06
 
 [Batch 06 register](https://github.com/ACBlainey/Concord-1.4/blob/main/06_Development/03_Cross_Domain_Architecture/Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2006.md) records 42 intact cross-domain root sources, the complete connector implementation note and six architectural/research sketches. All 49 source copies were hash-verified. Source maturity and authority boundaries remain unchanged; nested cross-domain families and test-embedded amendments remain for review.
+
+## Recovery batch 07
+
+[Batch 07 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2007.md) records 37 hash-verified nested source copies covering topology, wrappers, invention-frontier, KCS, metrics and steward selection. It distinguishes epistemic/state/trigger functions from authority and lists pending datasets, adversarial amendments and operational-coverage checks.
