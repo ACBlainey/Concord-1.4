@@ -41,3 +41,7 @@ Continue searching for developed architecture across V1.3, including earlier for
 ## Recovery batch 03 — 31 October 2026
 
 [Batch 03 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2003.md) records the intact accessibility/accreditation paper, dispositions for remaining speculative/provenance papers, targeted checks of the schema repair chain and the adjacent 26-document Governance and Stewardship recovery. Optional-field/semantic-validator questions remain explicit; no full schema conformance claim is made.
+
+## Recovery batch 10
+
+[Batch 10 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2010.md) records four newly preserved schema/predecessor/conformance sources, thirteen previously recovered source copies freshly hash-verified, and explicit V1.3 retention of 42 fixture/test-evidence files. Both fixture manifests match their instance IDs; no conformance test was rerun. The wider source audit remains open.
