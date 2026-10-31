@@ -21,3 +21,7 @@ See [Development workspace rules](../README.md).
 ## Recovery batch 07
 
 [Batch 07 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2007.md) records 37 hash-verified nested source copies covering topology, wrappers, invention-frontier, KCS, metrics and steward selection. It distinguishes epistemic/state/trigger functions from authority and lists pending datasets, adversarial amendments and operational-coverage checks.
+
+## Recovery batch 08
+
+[Batch 08 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2008.md) records 14 complete hash-verified source copies, seven independently verified KCS V2.0 operational files, and verbatim developed-pattern extracts from three test sources. Complete source copies and partial architectural extracts are explicitly distinguished.
