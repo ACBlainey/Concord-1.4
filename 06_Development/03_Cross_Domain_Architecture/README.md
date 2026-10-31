@@ -25,3 +25,7 @@ See [Development workspace rules](../README.md).
 ## Recovery batch 08
 
 [Batch 08 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2008.md) records 14 complete hash-verified source copies, seven independently verified KCS V2.0 operational files, and verbatim developed-pattern extracts from three test sources. Complete source copies and partial architectural extracts are explicitly distinguished.
+
+## Recovery batch 09
+
+[Batch 09 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2009.md) verifies thirteen existing Ratchet/emergency/recursive-constitution files, preserves the Ratchet V4.2 predecessor intact, and records seven verbatim refinement extracts from test sources. The unresolved V4.2 original path is not treated as a confirmed omission.
