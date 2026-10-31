@@ -45,3 +45,7 @@ Continue searching for developed architecture across V1.3, including earlier for
 ## Recovery batch 10
 
 [Batch 10 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2010.md) records four newly preserved schema/predecessor/conformance sources, thirteen previously recovered source copies freshly hash-verified, and explicit V1.3 retention of 42 fixture/test-evidence files. Both fixture manifests match their instance IDs; no conformance test was rerun. The wider source audit remains open.
+
+## Recovery batch 11
+
+[Batch 11 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2011.md) records two complete CMSS requirement/feedback synthesis copies hash-verified against V1.3 and twelve verbatim requirement/corrective-decision extracts. It retains study/provenance limits and distinguishes storage, runtime, key custody and authority. Remaining source/scenario content is not declared fully reconciled.
