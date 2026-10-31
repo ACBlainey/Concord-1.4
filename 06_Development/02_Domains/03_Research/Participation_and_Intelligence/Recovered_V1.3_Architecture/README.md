@@ -37,3 +37,7 @@ Continue searching for developed architecture across V1.3, including earlier for
 ## Recovery batch 02 — 31 October 2026
 
 [Batch 02 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2002.md) records ten more intact, hash-verified design/source-resolution documents; comparison of the earlier lobby boards and signboard against recovered successors; and implementation requirements extracted from CMSS/resource evaluations. This is preservation and coverage work, not operational adoption or a declaration of complete recovery.
+
+## Recovery batch 03 — 31 October 2026
+
+[Batch 03 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2003.md) records the intact accessibility/accreditation paper, dispositions for remaining speculative/provenance papers, targeted checks of the schema repair chain and the adjacent 26-document Governance and Stewardship recovery. Optional-field/semantic-validator questions remain explicit; no full schema conformance claim is made.
