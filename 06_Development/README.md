@@ -49,3 +49,7 @@ For cross-domain work, designate a primary owning destination and record affecte
 ## Architectural recovery — Governance, Judiciary and Portable Modules
 
 [Batch 15 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2015.md) records exact source coverage for Governance V2.2's README/22 sections, Judiciary V2.1's 23-file sectional set and 41 portable files, plus two root documents. Twenty original sources are preserved in Development; historical/portable sources do not supersede current domain authority.
+
+## Architectural recovery — Constitutional, Research and Applications
+
+[Batch 16 register](Recovery%20Register%20%E2%80%94%202026-10-31%20%E2%80%94%20Batch%2016.md) records 54 intact/hash-verified source copies and eighteen existing matches. Provisional rights/participation, developed methods and applications retain their source roles. U1–U8 comparative experiments remain distinct from Blainey's Laws, and the Unified Paths corpus remains excluded.
