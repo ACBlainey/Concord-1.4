@@ -42,3 +42,31 @@ Two concurrent repositories are being used to compare migration methods, with th
 - **[Concord V1.4a](https://github.com/ACBlainey/Concord-1.4a)** is the **comparative full-import experiment**. It starts with all source material and progressively pares back development-only, duplicated, superseded, or otherwise unnecessary content, while safeguarding essential architecture and reasoning. Its pruning approach must not be silently applied to V1.4.
 
 **Cross-repository guidance:** Read the [AI Developer Notes in V1.4](https://github.com/ACBlainey/Concord-1.4/blob/main/AI_DEVELOPER_NOTES.md) and the [AI Developer Notes in V1.4a](https://github.com/ACBlainey/Concord-1.4a/blob/main/AI_DEVELOPER_NOTES.md) when work concerns both versions. These notes share general developer guidance; migration instructions are repository-specific. Verify each repository's current state and handoffs independently. Do not assume changes, commits, files, or progress in one are present in the other. Do not merge, replace, or declare a winning method without explicit author direction. The final consolidation remains a future decision.
+
+## Handover lessons from historical Concord development sessions
+
+These procedures are derived from repeated instance transitions during V1.3 architectural recovery, Governance V2.1/V2.2 reconciliation, and V1.4 migration. They address recurring rediscovery, re-explanation, repeated audits, lost architectural distinctions, and confusion over what was actually committed. They supplement, not replace, the existing Handoffs/PROGRESS system.
+
+### Successor startup — establish three separate states
+
+1. **Verified repository state:** identify the exact repository, branch, current operational document/version, latest relevant commit, active handoff, and actual files changed. Read these rather than assuming the preceding assistant's claims were implemented. In concurrent V1.4/V1.4a work, never transfer progress between repositories by assumption.
+2. **Established architectural state:** identify rules and decisions already settled, including important distinctions, prohibitions, terminology, and pointers to their actual source sections. Older material labelled 'canonical' or 'non-canonical' is not automatically complete or obsolete: such labels may describe historical status, not architectural validity. Check older sources where migration loss is suspected.
+3. **Outstanding task state:** identify what remains to integrate, what is flagged at its location, what is explicitly deferred for future design, and the next concrete operation. Distinguish 'not found', 'not yet checked', 'already designed elsewhere', 'integrated', and 'needs new design'.
+
+### Source-first recovery and reuse
+
+Before proposing new mechanisms, search the relevant current domain, older versions, cross-domain architecture, portable modules, companion documents, development records and completed work. Search for *architectural equivalence*, not just matching terms. Check whether a mechanism exists under another name or domain. Prefer integration or a pointer over duplication. Treat missing material in a newer migration as a possible omission, not proof that the architecture never existed. When a source is unavailable, state that limitation rather than recreating it from memory.
+
+### Prevent repeated work and re-litigation
+
+The handoff must record completed integration and prior decisions with file paths and commit evidence, including **why a particular issue is closed or deferred**. Do not restart an audit, re-test settled conceptual analogies, reopen a deliberately closed workstream, or reintroduce superseded wording merely because a successor lacks its earlier conversational context. New evidence may justify reconsideration, but identify it explicitly. Where design is genuinely missing, flag it *in the relevant operational location* and continue incorporation when instructed; do not block all consolidation on unresolved interfaces.
+
+### Preserve task-specific editorial and authority rules
+
+Record the active work method and constraints alongside the objective. Examples from previous handovers include: integrate and consolidate first; preserve provenance without duplicating superseded passages in the live document; keep operational text free of audit/work labels; use work folders for development; make GitHub writes singly; and synchronize verified repository state after each meaningful batch. Distinguish architecture from analogy and do not silently promote a speculative explanation into an operational rule. A successor must not infer authority to restructure unrelated areas from a narrowly scoped task.
+
+### Compact handover content and acceptance check
+
+A useful handover should include: **(a)** repository/version/branch and current source of truth; **(b)** exact objective and scope; **(c)** verified changes and commits; **(d)** key established decisions and 'must-not-break' constraints with source pointers; **(e)** completed/closed/deferred items; **(f)** unresolved conflicts and missing-source status; **(g)** next exact actions; and **(h)** repository-specific working instructions. Keep this concise, link to source files rather than pasting large documents, and update it incrementally at natural milestones.
+
+At startup, compare the handover against the live files and progress journal, reconcile discrepancies, then continue from the last verified point. Ask the author only about genuine ambiguity or architectural choices not resolved by the sources; do not repeatedly ask for rules already recorded. The goal is to **migrate the living result and archive the developmental path**, without publishing raw conversation transcripts.
